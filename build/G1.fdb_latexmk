@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1661702212 "c:/Users/benit/OneDrive - ib.edu.ar/Desktop/Home/Mate/Complementos_De_Analisis/Practicas/G1/G1.tex" "build/G1.pdf" "G1" 1661702214
+["pdflatex"] 1661710486 "c:/Users/benit/OneDrive - ib.edu.ar/Desktop/Home/Mate/Complementos_De_Analisis/Practicas/G1/G1.tex" "build/G1.pdf" "G1" 1661710489
   "C:/MikTex/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/MikTex/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/MikTex/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -23,6 +23,7 @@
   "C:/MikTex/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/MikTex/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/MikTex/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
+  "C:/MikTex/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
   "C:/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/MikTex/fonts/type1/public/amsfonts/symbols/msbm10.pfb" 1247596673 34694 870c211f62cb72718a00e353f14f254d ""
   "C:/MikTex/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -150,9 +151,16 @@
   "C:/Users/benit/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1661619459 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/benit/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1648572094 10230546 143be34f4e53ccdc9790fd2b1839cef4 ""
   "Ejs/e1.tex" 1661702212 705 d8b9b321573893d344193fbcabad3871 ""
-  "G1.tex" 1661698932 993 f0433ab7ed06ef83a47c820f82e28a7d ""
-  "build/G1.aux" 1661702214 147 1440b7bc5f98a6a4ec0af4851e9a3d52 "pdflatex"
-  "c:/Users/benit/OneDrive - ib.edu.ar/Desktop/Home/Mate/Complementos_De_Analisis/Practicas/G1/G1.tex" 1661698932 993 f0433ab7ed06ef83a47c820f82e28a7d ""
+  "Ejs/e2.tex" 1661710485 505 0b90da1a570ff4e84107589a0da980b4 ""
+  "Ejs/e3.tex" 0 -1 0 ""
+  "Ejs/e4.tex" 0 -1 0 ""
+  "Ejs/e5.tex" 0 -1 0 ""
+  "Ejs/e6.tex" 0 -1 0 ""
+  "Ejs/e7.tex" 0 -1 0 ""
+  "Ejs/e8.tex" 0 -1 0 ""
+  "G1.tex" 1661702532 1015 3a5024ffc96a89feae73a251cd193765 ""
+  "build/G1.aux" 1661710488 147 1440b7bc5f98a6a4ec0af4851e9a3d52 "pdflatex"
+  "c:/Users/benit/OneDrive - ib.edu.ar/Desktop/Home/Mate/Complementos_De_Analisis/Practicas/G1/G1.tex" 1661702532 1015 3a5024ffc96a89feae73a251cd193765 ""
   (generated)
   "build/G1.aux"
   "build/G1.log"
